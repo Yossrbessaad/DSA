@@ -1,6 +1,6 @@
 # 🧠 DSA – Data Structures and Algorithms Practice
 
-This is a collaborative repository where we solve and track problems related to **Data Structures and Algorithms (DSA)** using **Java**, focused entirely on **LeetCode**. Our goal is to strengthen our algorithmic thinking, prepare for coding interviews, and improve performance on coding challenges.
+This is a collaborative repository where we solve and track problems related to **Data Structures and Algorithms (DSA)**. Our goal is to strengthen our algorithmic thinking, prepare for coding interviews, and improve performance on coding challenges.
 
 ---
 
